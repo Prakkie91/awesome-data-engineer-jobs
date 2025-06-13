@@ -6,13 +6,9 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ---
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/di9wcgfa3gdfulghpaxz.webp" width="24" height="24" alt="ABC Legal Services logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ABC Legal Services](https://jobo.world/company/abclegalservices)
-
-* **[Manager, Reporting](https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/Remote-United-States/Manager--Reporting_REQ-03468)** — _n/a_ _(posted 2025-04-29)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cnatltnudekb0sa5af4e.webp" width="24" height="24" alt="Addepar logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Addepar](https://jobo.world/company/Addepar)
 
-* **[Sr. Software Engineer - Reference Data](https://job-boards.greenhouse.io/addepar1/jobs/7978809002)** — $126,000 – $197,000 USD _(posted 2025-05-02)_
+* **[Sr. Software Engineer - Reference Data](https://job-boards.greenhouse.io/addepar1/jobs/7978809002)** — ¤126,000 – ¤197,000 USD _(posted 2025-05-02)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zprlx3cloasr5utwjktm.webp" width="24" height="24" alt="AE Studio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AE Studio](https://jobo.world/company/AE-Studio)
 
@@ -54,6 +50,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
 * **[Staff Data Engineer](https://boards.greenhouse.io/calendly/jobs/7963303002)** — _n/a_ _(posted 2025-04-22)_
+* **[Senior Analytics Engineer, Go-To-Market](https://boards.greenhouse.io/calendly/jobs/7910574002)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
 
@@ -90,11 +87,12 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/x77bz7tzkp28x4p8fs8d.webp" width="24" height="24" alt="Dave logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dave](https://jobo.world/company/Dave)
 
-* **[Manager, Data Engineering](https://jobs.ashbyhq.com/dave/9ef2b869-5578-44e7-835e-8f1789cc95d5)** — $138,000 – $222,000 USD _(posted 2025-05-30)_
+* **[Manager, Data Engineering](https://jobs.ashbyhq.com/dave/9ef2b869-5578-44e7-835e-8f1789cc95d5)** — ¤138,000 – ¤222,000 USD _(posted 2025-05-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e6q2rqxidfkrkn9dkpth.webp" width="24" height="24" alt="Demandbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Demandbase](https://jobo.world/company/Demand-Base)
 
 * **[Senior Data Engineer](https://job-boards.greenhouse.io/demandbase/jobs/6966885)** — _n/a_ _(posted 2025-06-10)_
+* **[Staff Database Reliability Engineer (DBRE)](https://job-boards.greenhouse.io/demandbase/jobs/6791727)** — ¤140,000 – ¤210,000 USD _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uy3ifw1k0xtbsujpqhns.webp" width="24" height="24" alt="Dick's Sporting Goods logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dick's Sporting Goods](https://jobo.world/company/Dicks-Sporting-Goods)
 
@@ -116,7 +114,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
-* **[Data Scientist ](https://jobs.ashbyhq.com/fieldguide/689e1035-9960-4814-83b2-405a22346e5c)** — $172,000 – $203,000 USD _(posted 2025-05-24)_
+* **[Data Scientist ](https://jobs.ashbyhq.com/fieldguide/689e1035-9960-4814-83b2-405a22346e5c)** — ¤172,000 – ¤203,000 USD _(posted 2025-05-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
@@ -154,7 +152,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
 
-* **[Staff Data Engineer](https://job-boards.greenhouse.io/huntress/jobs/6568130003)** — $180,000 – $210,000 USD _(posted 2025-05-08)_
+* **[Staff Data Engineer](https://job-boards.greenhouse.io/huntress/jobs/6568130003)** — ¤180,000 – ¤210,000 USD _(posted 2025-05-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0p2lkgyrsetxsdrpcp0.webp" width="24" height="24" alt="Interwell Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Interwell Health](https://jobo.world/company/Interwell-Health)
 
@@ -167,22 +165,22 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fyk8fmlauq3eczmej348.webp" width="24" height="24" alt="Khan Academy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Khan Academy](https://jobo.world/company/Khan-Academy)
 
-* **[Data Analyst, District Success](https://job-boards.greenhouse.io/khanacademy/jobs/6885574)** — $70,000 – $90,000 USD _(posted 2025-05-15)_
+* **[Data Analyst, District Success](https://job-boards.greenhouse.io/khanacademy/jobs/6885574)** — ¤70,000 – ¤90,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
 
-* **[Senior SQL Developer - Snowflake](https://job-boards.greenhouse.io/kunai/jobs/4745721007)** — $130,000 – $160,000 USD _(posted 2025-06-06)_
+* **[Senior SQL Developer - Snowflake](https://job-boards.greenhouse.io/kunai/jobs/4745721007)** — ¤130,000 – ¤160,000 USD _(posted 2025-06-06)_
 * **[Senior Data Engineer](https://job-boards.greenhouse.io/kunai/jobs/4748724007)** — _n/a_ _(posted 2025-06-03)_
 * **[Data Engineer](https://job-boards.greenhouse.io/kunai/jobs/4730849007)** — _n/a_ _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
 * **[Senior Data Engineer II](https://job-boards.greenhouse.io/life360/jobs/8028954002)** — _n/a_ _(posted 2025-06-07)_
-* **[Staff Data Engineer](https://job-boards.greenhouse.io/life360/jobs/7896457002)** — $166,500 – $245,000 USD _(posted 2025-03-30)_
+* **[Staff Data Engineer](https://job-boards.greenhouse.io/life360/jobs/7896457002)** — ¤166,500 – ¤245,000 USD _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
 
-* **[Analytics Engineer](https://jobs.ashbyhq.com/machinify/ee058a5f-d05f-4baf-92d6-3353d74ecc0e)** — $180,000 – $200,000 USD _(posted 2025-03-12)_
+* **[Analytics Engineer](https://jobs.ashbyhq.com/machinify/ee058a5f-d05f-4baf-92d6-3353d74ecc0e)** — ¤180,000 – ¤200,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/srry4v99yg18r3o0owsd.webp" width="24" height="24" alt="Maven Clinic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Maven Clinic](https://jobo.world/company/Maven-Clinic)
 
@@ -219,7 +217,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
-* **[Senior Data Engineer](https://jobs.ashbyhq.com/radai/e63ba90c-b723-45f7-8856-e1603635f0c8)** — $145,000 – $190,000 USD _(posted 2025-03-29)_
+* **[Senior Data Engineer](https://jobs.ashbyhq.com/radai/e63ba90c-b723-45f7-8856-e1603635f0c8)** — ¤145,000 – ¤190,000 USD _(posted 2025-03-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/h6wc9ahsl5jklo7wnmkt.webp" width="24" height="24" alt="Recorded Future logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Recorded Future](https://jobo.world/company/Recorded-Future)
 
@@ -231,8 +229,8 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wctfsagj7qjonhls3og0.webp" width="24" height="24" alt="Rula logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rula](https://jobo.world/company/Rula)
 
-* **[Data Scientist (Remote)](https://jobs.ashbyhq.com/rula/7a68a307-dc0f-43af-8565-4f5a46138848)** — $150,200 – $167,900 USD _(posted 2025-06-07)_
-* **[Staff Software Engineer - Data (Remote)](https://jobs.ashbyhq.com/rula/553f0da9-790b-429a-91b6-eeb193d8117d)** — $187,000 – $220,000 USD _(posted 2025-04-29)_
+* **[Data Scientist (Remote)](https://jobs.ashbyhq.com/rula/7a68a307-dc0f-43af-8565-4f5a46138848)** — ¤150,200 – ¤167,900 USD _(posted 2025-06-07)_
+* **[Staff Software Engineer - Data (Remote)](https://jobs.ashbyhq.com/rula/553f0da9-790b-429a-91b6-eeb193d8117d)** — ¤187,000 – ¤220,000 USD _(posted 2025-04-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u3ko06mvu5nvizavxsix.webp" width="24" height="24" alt="RxSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RxSense](https://jobo.world/company/RxSense)
 
@@ -240,14 +238,14 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
 
-* **[Data Scientist](https://jobs.ashbyhq.com/sleeper/1685e1ae-6bf2-466e-ac60-0081cf04c091)** — $60,000 – $90,000 USD _(posted 2025-05-15)_
+* **[Data Scientist](https://jobs.ashbyhq.com/sleeper/1685e1ae-6bf2-466e-ac60-0081cf04c091)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
 
-* **[Senior Solution Engineer](https://jobs.ashbyhq.com/snowflake/90bda103-83f1-46d8-83cc-93a47b541fba)** — $155,600 – $216,600 USD _(posted 2025-05-29)_
-* **[Senior Solution Engineer](https://jobs.ashbyhq.com/snowflake/49872ce6-14e9-4a8f-a447-73616dabaa2a)** — $155,600 – $216,600 USD _(posted 2025-05-06)_
-* **[Solution Engineer](https://jobs.ashbyhq.com/snowflake/5a5e310b-d837-4019-96c1-efde1401758b)** — $130,200 – $181,100 USD _(posted 2025-04-08)_
-* **[Solution Engineer, Enterprise](https://jobs.ashbyhq.com/snowflake/09a39c0c-64ac-490e-950b-a39ca06ad8a0)** — $99,100 – $137,800 USD _(posted 2025-04-04)_
+* **[Senior Solution Engineer](https://jobs.ashbyhq.com/snowflake/90bda103-83f1-46d8-83cc-93a47b541fba)** — ¤155,600 – ¤216,600 USD _(posted 2025-05-29)_
+* **[Senior Solution Engineer](https://jobs.ashbyhq.com/snowflake/49872ce6-14e9-4a8f-a447-73616dabaa2a)** — ¤155,600 – ¤216,600 USD _(posted 2025-05-06)_
+* **[Solution Engineer](https://jobs.ashbyhq.com/snowflake/5a5e310b-d837-4019-96c1-efde1401758b)** — ¤130,200 – ¤181,100 USD _(posted 2025-04-08)_
+* **[Solution Engineer, Enterprise](https://jobs.ashbyhq.com/snowflake/09a39c0c-64ac-490e-950b-a39ca06ad8a0)** — ¤99,100 – ¤137,800 USD _(posted 2025-04-04)_
 * **[Data Platform Architect (Data Engineering) - Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/dd71094d-1bc0-414e-b60f-4e3d4ab569b3)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ztchjewjetxet4seourr.webp" width="24" height="24" alt="Solace Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solace Health](https://jobo.world/company/Solace-Health)
@@ -258,10 +256,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Analytics Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4562146005)** — _n/a_ _(posted 2025-05-10)_
 * **[Data Analyst](https://boards.greenhouse.io/tailscale/jobs/4518767005)** — _n/a_ _(posted 2025-03-21)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vode4vw6rr7wllw4olap.webp" width="24" height="24" alt="Talkiatry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Talkiatry](https://jobo.world/company/Talkiatry)
-
-* **[BI Engineer](https://jobs.lever.co/talkiatry/1393e245-be1a-4ea4-985e-44ce8f519bb3)** — _n/a_ _(posted 2025-04-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r40ajrc2uetxb7obycan.webp" width="24" height="24" alt="TetraScience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TetraScience](https://jobo.world/company/TetraScience)
 
@@ -283,26 +277,26 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
 
 * **[Sr. Data Engineer II](https://jobs.lever.co/trueml/0e2a9f91-3557-46c9-afb1-8feb8bca4231)** — _n/a_ _(posted 2025-05-18)_
-* **[Sr. Engineer I, Middleware](https://jobs.lever.co/trueml/1c6d829d-1a10-46e0-bc49-82111748fdec)** — $43,199 – $51,839 USD _(posted 2025-04-16)_
+* **[Sr. Engineer I, Middleware](https://jobs.lever.co/trueml/1c6d829d-1a10-46e0-bc49-82111748fdec)** — ¤43,199 – ¤51,839 USD _(posted 2025-04-16)_
 * **[Senior Machine Learning Engineer](https://jobs.lever.co/trueml/95d90f91-fb45-4563-bcf2-3ae7f3ee81c8)** — _n/a_ _(posted 2025-04-03)_
 * **[Data Scientist II](https://jobs.lever.co/trueml/aac09c60-24e8-419c-b072-5e9ec7623682)** — _n/a_ _(posted 2025-01-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/igifoqrbvq9leputdp4b.webp" width="24" height="24" alt="Tubi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tubi](https://jobo.world/company/Tubi)
 
-* **[Data Engineer](https://job-boards.greenhouse.io/tubitv/jobs/6843451)** — $121,000 – $160,000 USD _(posted 2025-04-29)_
+* **[Data Engineer](https://job-boards.greenhouse.io/tubitv/jobs/6843451)** — ¤121,000 – ¤160,000 USD _(posted 2025-04-29)_
 * **[Data Scientist](https://job-boards.greenhouse.io/tubitv/jobs/6467358)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ue3fwejoinxv3npuikqw.webp" width="24" height="24" alt="Two Six Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Two Six Technologies](https://jobo.world/company/Two-Six-Technologies)
 
 * **[Lead Data Pipeline Engineer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5555375004)** — _n/a_ _(posted 2025-06-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/efnjwpul8mlnrptcmdjv.webp" width="24" height="24" alt="UltraViolet Cyber logo" style="vertical-align:middle"/>&nbsp;&nbsp;[UltraViolet Cyber](https://jobo.world/company/UltraViolet-Cyber)
-
-* **[Security Data Engineer](https://jobs.lever.co/uvcyber/8982937f-f0ca-46f4-b2c3-d1091d87ed6c)** — _n/a_ _(posted 2025-05-28)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
-* **[Senior Data Scientist](https://jobs.ashbyhq.com/vanta/af937c5a-6352-44d4-a4dd-c50048db722f)** — $150,000 – $220,000 USD _(posted 2025-05-15)_
+* **[Senior Data Scientist](https://jobs.ashbyhq.com/vanta/af937c5a-6352-44d4-a4dd-c50048db722f)** — ¤150,000 – ¤220,000 USD _(posted 2025-05-15)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/j1qsczfhbf7hbtrogsbr.webp" width="24" height="24" alt="Verisart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Verisart](https://jobo.world/company/Verisart)
+
+* **[Data Scientist (Remote)](https://jobs.smartrecruiters.com/Vericast/744000061924195-data-scientist-remote-?oga=true)** — _n/a_ _(posted 2025-05-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d7dueixfzg0r80wfv2va.webp" width="24" height="24" alt="Workwave logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Workwave](https://jobo.world/company/Workwave)
 
@@ -314,4 +308,4 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4570159006)** — _n/a_ _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-12_
+_Updated automatically — 2025-06-13_
