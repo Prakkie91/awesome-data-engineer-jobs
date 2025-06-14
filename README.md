@@ -29,6 +29,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Staff Data Engineer (Remote, United States)](https://boards.greenhouse.io/apolloio/jobs/5476022004)** — _n/a_ _(posted 2025-03-28)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
+
+* **[Analytics Support Manager](https://jobs.ashbyhq.com/reteam/37bc6f1a-5c79-45c6-b51b-6ddac1258312)** — ¤50,000 – ¤100,000 USD _(posted 2025-03-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hlig8btjkeofmhnarcst.webp" width="24" height="24" alt="Atlan logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Atlan](https://jobo.world/company/Atlan)
 
 * **[Sales Engineer - Central](https://jobs.ashbyhq.com/atlan/5c8e9abe-8162-453c-8989-a2a8ed5b2445)** — _n/a_ _(posted 2025-04-03)_
@@ -81,7 +85,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Senior Data Scientist](https://job-boards.greenhouse.io/dataiku/jobs/5528200004)** — _n/a_ _(posted 2025-06-07)_
 * **[Sr Data Scientist](https://job-boards.greenhouse.io/dataiku/jobs/5555221004)** — _n/a_ _(posted 2025-06-04)_
 * **[Senior Data Scientist, LATAM (Spanish required)](https://job-boards.greenhouse.io/dataiku/jobs/5532213004)** — _n/a_ _(posted 2025-05-03)_
-* **[Associate Engagement Manager](https://job-boards.greenhouse.io/dataiku/jobs/5530258004)** — _n/a_ _(posted 2025-05-02)_
 * **[Senior Data Scientist](https://job-boards.greenhouse.io/dataiku/jobs/5528196004)** — _n/a_ _(posted 2025-04-30)_
 * **[Enterprise Account Executive](https://job-boards.greenhouse.io/dataiku/jobs/5489856004)** — _n/a_ _(posted 2025-04-01)_
 
@@ -115,6 +118,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
 * **[Data Scientist ](https://jobs.ashbyhq.com/fieldguide/689e1035-9960-4814-83b2-405a22346e5c)** — ¤172,000 – ¤203,000 USD _(posted 2025-05-24)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r7kzebg3baked8orrdyb.webp" width="24" height="24" alt="Flatfile logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flatfile](https://jobo.world/company/Flatfile)
+
+* **[AI Engineer](https://jobs.ashbyhq.com/flatfile/322d89ce-e6e2-44ed-a9bb-6e14a1d53b07)** — ¤180,000 – ¤200,000 USD _(posted 2025-06-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
@@ -198,10 +205,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Contract Data Engineer](https://boards.greenhouse.io/themotleyfool/jobs/4717223007)** — _n/a_ _(posted 2025-05-01)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/od7fwijhxhgxvilcetzp.webp" width="24" height="24" alt="Northwestern Mutual logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Northwestern Mutual](https://jobo.world/company/Northwestern-Mutual)
-
-* **[Data Engineer Sr](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Remote-Wisconsin/Data-Engineer-Sr_JR-43367)** — _n/a_ _(posted 2025-06-06)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ius1mxcu5iwevowrje3y.webp" width="24" height="24" alt="Paytient logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Paytient](https://jobo.world/company/Paytient)
 
 * **[Analytics Manager](https://job-boards.greenhouse.io/paytient/jobs/4730120007)** — _n/a_ _(posted 2025-05-09)_
@@ -254,6 +257,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cbqseb7qanoppr64ffdp.webp" width="24" height="24" alt="Tailscale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tailscale](https://jobo.world/company/Tailscale)
 
+* **[Director of Data](https://job-boards.greenhouse.io/tailscale/jobs/4415557005)** — _n/a_ _(posted 2025-06-13)_
 * **[Analytics Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4562146005)** — _n/a_ _(posted 2025-05-10)_
 * **[Data Analyst](https://boards.greenhouse.io/tailscale/jobs/4518767005)** — _n/a_ _(posted 2025-03-21)_
 
@@ -283,7 +287,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/igifoqrbvq9leputdp4b.webp" width="24" height="24" alt="Tubi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tubi](https://jobo.world/company/Tubi)
 
-* **[Data Engineer](https://job-boards.greenhouse.io/tubitv/jobs/6843451)** — ¤121,000 – ¤160,000 USD _(posted 2025-04-29)_
 * **[Data Scientist](https://job-boards.greenhouse.io/tubitv/jobs/6467358)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ue3fwejoinxv3npuikqw.webp" width="24" height="24" alt="Two Six Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Two Six Technologies](https://jobo.world/company/Two-Six-Technologies)
@@ -308,4 +311,4 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4570159006)** — _n/a_ _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-13_
+_Updated automatically — 2025-06-14_
