@@ -51,10 +51,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Senior Data Engineer](https://jobs.ashbyhq.com/biorender/f22237ff-ad9e-4883-9d03-f7023435e4ad)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p4pzzej7jex0nyhbpiek.webp" width="24" height="24" alt="Brightline logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Brightline](https://jobo.world/company/Brightline)
-
-* **[Senior Data Analyst](https://jobs.ashbyhq.com/hellobrightline/27b72720-73a3-4d98-ac9a-471fd2c4d3c1)** — _n/a_ _(posted 2025-06-11)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
 * **[Staff Data Engineer](https://boards.greenhouse.io/calendly/jobs/7963303002)** — _n/a_ _(posted 2025-04-22)_
@@ -208,6 +204,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Senior Data Scientist](https://job-boards.greenhouse.io/mercury/jobs/5458525004)** — _n/a_ _(posted 2025-04-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/f2gcjjij8ev8we8ueqtx.webp" width="24" height="24" alt="Monte Carlo Data logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Monte Carlo Data](https://jobo.world/company/Monte-Carlo-Data)
+
+* **[Strategic Sales Engineer](https://jobs.ashbyhq.com/montecarlodata/c00e4520-2ffc-47a1-8548-f8d8859a36d1)** — _n/a_ _(posted 2025-05-21)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
 * **[Principal Engineer, Team Lead- Data Platform](https://job-boards.greenhouse.io/motional/jobs/6119126003)** — _n/a_ _(posted 2025-04-15)_
@@ -314,4 +314,4 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4570159006)** — _n/a_ _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-16_
+_Updated automatically — 2025-06-17_
