@@ -50,10 +50,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
 * **[Staff Data Engineer](https://boards.greenhouse.io/calendly/jobs/7963303002)** — _n/a_ _(posted 2025-04-22)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
-
-* **[Sr Mgr, Data Services (US-REMOTE)](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Sr-Mgr--Data-Services--US-REMOTE-_JR7809-1)** — _n/a_ _(posted 2025-05-08)_
+* **[Senior Analytics Engineer, Go-To-Market](https://boards.greenhouse.io/calendly/jobs/7910574002)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcrsxaub94nntp5gtnjk.webp" width="24" height="24" alt="Clickhouse logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clickhouse](https://jobo.world/company/Clickhouse)
 
@@ -194,6 +191,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Principal Engineer, Team Lead- Data Platform](https://job-boards.greenhouse.io/motional/jobs/6119126003)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ipqjggsa4adm24tegtgj.webp" width="24" height="24" alt="MyFitnessPal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[MyFitnessPal](https://jobo.world/company/MyFitnessPal)
+
+* **[BI Engineer](https://job-boards.greenhouse.io/myfitnesspal/jobs/6996724)** — _n/a_ _(posted 2025-06-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eqeazueaiga7rnffvoaz.webp" width="24" height="24" alt="Pacvue logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pacvue](https://jobo.world/company/Pacvue)
 
 * **[Analytics Engineer](https://job-boards.greenhouse.io/pacvue/jobs/5568441004)** — _n/a_ _(posted 2025-06-19)_
@@ -225,7 +226,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wctfsagj7qjonhls3og0.webp" width="24" height="24" alt="Rula logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rula](https://jobo.world/company/Rula)
 
-* **[Data Scientist (Remote)](https://jobs.ashbyhq.com/rula/7a68a307-dc0f-43af-8565-4f5a46138848)** — ¤150,200 – ¤167,900 USD _(posted 2025-06-07)_
 * **[Staff Software Engineer - Data (Remote)](https://jobs.ashbyhq.com/rula/553f0da9-790b-429a-91b6-eeb193d8117d)** — ¤187,000 – ¤220,000 USD _(posted 2025-04-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u3ko06mvu5nvizavxsix.webp" width="24" height="24" alt="RxSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RxSense](https://jobo.world/company/RxSense)
@@ -308,4 +308,4 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4570159006)** — _n/a_ _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-20_
+_Updated automatically — 2025-06-21_
