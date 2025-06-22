@@ -151,14 +151,14 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Senior Data Engineer](https://jobs.ashbyhq.com/hatch/977f8ecd-96e5-4f10-972e-484b5f986fa5)** — _n/a_ _(posted 2025-05-11)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
-
-* **[Staff Data Engineer](https://job-boards.greenhouse.io/huntress/jobs/6568130003)** — ¤180,000 – ¤210,000 USD _(posted 2025-05-08)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0p2lkgyrsetxsdrpcp0.webp" width="24" height="24" alt="Interwell Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Interwell Health](https://jobo.world/company/Interwell-Health)
 
 * **[Data Engineer](https://job-boards.greenhouse.io/interwellhealth/jobs/4749959008)** — _n/a_ _(posted 2025-06-07)_
 * **[Manager, Data Engineering](https://boards.greenhouse.io/interwellhealth/jobs/4614534008)** — _n/a_ _(posted 2025-04-05)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
+
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/4d968ce8-0e83-4f85-8e50-b6128506d734)** — _n/a_ _(posted 2025-06-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dxy8iioo8gd3ypfnw3te.webp" width="24" height="24" alt="Keep logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keep](https://jobo.world/company/Keep)
 
@@ -212,6 +212,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Product Engineer - Product Analytics](https://jobs.ashbyhq.com/posthog/69b6af66-b0c3-4f9e-9ffd-ff5de8f598e7)** — _n/a_ _(posted 2025-05-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bmyehdxrdv6eiphmivcv.webp" width="24" height="24" alt="Procore Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Procore Technologies](https://jobo.world/company/Procore-Technologies)
+
+* **[Senior Data Engineer](https://jobs.smartrecruiters.com/ProcoreTechnologies/744000066351325-senior-data-engineer?oga=true)** — _n/a_ _(posted 2025-06-20)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
 * **[Senior Data Engineer](https://jobs.ashbyhq.com/radai/e63ba90c-b723-45f7-8856-e1603635f0c8)** — ¤145,000 – ¤190,000 USD _(posted 2025-03-29)_
@@ -238,7 +242,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
 
-* **[Solution Engineer](https://jobs.ashbyhq.com/snowflake/6a57b53f-a2e1-4e95-9641-a0e687a8849a)** — ¤99,100 – ¤137,800 USD _(posted 2025-06-19)_
 * **[Senior Solution Engineer](https://jobs.ashbyhq.com/snowflake/90bda103-83f1-46d8-83cc-93a47b541fba)** — ¤155,600 – ¤216,600 USD _(posted 2025-05-29)_
 * **[Senior Solution Engineer](https://jobs.ashbyhq.com/snowflake/49872ce6-14e9-4a8f-a447-73616dabaa2a)** — ¤155,600 – ¤216,600 USD _(posted 2025-05-06)_
 * **[Solution Engineer](https://jobs.ashbyhq.com/snowflake/5a5e310b-d837-4019-96c1-efde1401758b)** — ¤130,200 – ¤181,100 USD _(posted 2025-04-08)_
@@ -308,4 +311,4 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4570159006)** — _n/a_ _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-21_
+_Updated automatically — 2025-06-22_
