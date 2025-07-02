@@ -62,6 +62,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcrsxaub94nntp5gtnjk.webp" width="24" height="24" alt="Clickhouse logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clickhouse](https://jobo.world/company/Clickhouse)
 
+* **[Data Connector Engineer - Integrations](https://job-boards.greenhouse.io/clickhouse/jobs/5575738004)** — _n/a_ _(posted 2025-07-01)_
 * **[Business Intelligence and Data Analytics Manager](https://job-boards.greenhouse.io/clickhouse/jobs/5473035004)** — _n/a_ _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/brdmhjsjjbaststuliyr.webp" width="24" height="24" alt="Collectors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Collectors](https://jobo.world/company/Collectors)
@@ -91,7 +92,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pbekjf3dglwnuawekmds.webp" width="24" height="24" alt="Dataiku logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dataiku](https://jobo.world/company/Dataiku)
 
-* **[Senior Data Scientist](https://job-boards.greenhouse.io/dataiku/jobs/5528200004)** — _n/a_ _(posted 2025-06-07)_
+* **[Senior Data Scientist](https://job-boards.greenhouse.io/dataiku/jobs/5528202004)** — _n/a_ _(posted 2025-07-01)_
 * **[Senior Data Scientist, LATAM (Spanish required)](https://job-boards.greenhouse.io/dataiku/jobs/5532213004)** — _n/a_ _(posted 2025-05-03)_
 * **[Senior Data Scientist](https://job-boards.greenhouse.io/dataiku/jobs/5528196004)** — _n/a_ _(posted 2025-04-30)_
 * **[Enterprise Account Executive](https://job-boards.greenhouse.io/dataiku/jobs/5489856004)** — _n/a_ _(posted 2025-04-01)_
@@ -151,10 +152,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sb250tjrhdgpdrccctmj.webp" width="24" height="24" alt="Hatch logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hatch](https://jobo.world/company/Hatch)
 
 * **[Senior Data Engineer](https://jobs.ashbyhq.com/hatch/977f8ecd-96e5-4f10-972e-484b5f986fa5)** — _n/a_ _(posted 2025-05-11)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
-
-* **[Director, Data Engineering](https://job-boards.greenhouse.io/hs/jobs/6872334)** — _n/a_ _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
@@ -254,6 +251,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
 
+* **[Solutions Architect, Data Engineering & Lakehouse Lake](https://jobs.ashbyhq.com/snowflake/3587a4a8-2565-4b43-9fd5-4d2bd69ee7c9)** — ¤128,000 – ¤178,500 USD _(posted 2025-07-01)_
 * **[Senior Solution Engineer](https://jobs.ashbyhq.com/snowflake/90bda103-83f1-46d8-83cc-93a47b541fba)** — ¤155,600 – ¤216,600 USD _(posted 2025-05-29)_
 * **[Senior Solution Engineer](https://jobs.ashbyhq.com/snowflake/49872ce6-14e9-4a8f-a447-73616dabaa2a)** — ¤155,600 – ¤216,600 USD _(posted 2025-05-06)_
 * **[Solution Engineer](https://jobs.ashbyhq.com/snowflake/5a5e310b-d837-4019-96c1-efde1401758b)** — ¤130,200 – ¤181,100 USD _(posted 2025-04-08)_
@@ -295,10 +293,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Sr. Data Engineer II](https://jobs.lever.co/trueml/0e2a9f91-3557-46c9-afb1-8feb8bca4231)** — _n/a_ _(posted 2025-05-18)_
 * **[Senior Machine Learning Engineer](https://jobs.lever.co/trueml/95d90f91-fb45-4563-bcf2-3ae7f3ee81c8)** — _n/a_ _(posted 2025-04-03)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/igifoqrbvq9leputdp4b.webp" width="24" height="24" alt="Tubi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tubi](https://jobo.world/company/Tubi)
-
-* **[Data Scientist](https://job-boards.greenhouse.io/tubitv/jobs/6467358)** — _n/a_ _(posted 2025-04-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ue3fwejoinxv3npuikqw.webp" width="24" height="24" alt="Two Six Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Two Six Technologies](https://jobo.world/company/Two-Six-Technologies)
 
 * **[Lead Data Pipeline Engineer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5555375004)** — _n/a_ _(posted 2025-06-06)_
@@ -320,4 +314,4 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4570159006)** — _n/a_ _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-07-01_
+_Updated automatically — 2025-07-02_
