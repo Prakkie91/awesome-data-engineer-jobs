@@ -80,10 +80,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Lead Business Intelligence Analyst, Client and Program Impact](https://jobs.lever.co/color/345e4f7e-34dd-43f7-a4ac-71d8c318886d)** — _n/a_ _(posted 2025-04-11)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u4wntguyifqcihuqdoqm.webp" width="24" height="24" alt="Common Room logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Common Room](https://jobo.world/company/Common-Room)
-
-* **[Data Engineer / Scientist](https://jobs.ashbyhq.com/commonroom/89e173f7-aad4-45b4-b602-1d04f2a78565)** — _n/a_ _(posted 2025-05-22)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
 * **[Data Analytics Manager](https://job-boards.greenhouse.io/cribl/jobs/5534569004)** — _n/a_ _(posted 2025-05-07)_
@@ -111,6 +107,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Senior Data Engineer](https://job-boards.greenhouse.io/demandbase/jobs/6966885)** — _n/a_ _(posted 2025-06-10)_
 * **[Staff Database Reliability Engineer (DBRE)](https://job-boards.greenhouse.io/demandbase/jobs/6791727)** — ¤140,000 – ¤210,000 USD _(posted 2025-04-26)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fzlotl53009yjfbklmgi.webp" width="24" height="24" alt="DevRev logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DevRev](https://jobo.world/company/DevRev)
+
+* **[Architect- Applied AI Engineer](https://job-boards.greenhouse.io/devrev/jobs/5528192004)** — _n/a_ _(posted 2025-04-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sdfpocj9acizbzrl8sln.webp" width="24" height="24" alt="dv01 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[dv01](https://jobo.world/company/Dv01)
 
@@ -182,6 +182,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Senior Data Engineer](https://job-boards.greenhouse.io/mavenclinic/jobs/8062736002)** — _n/a_ _(posted 2025-07-04)_
 * **[Lead Analytics Engineer](https://job-boards.greenhouse.io/mavenclinic/jobs/7804200002)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cmefcsmkvu7jdstrpfft.webp" width="24" height="24" alt="May Mobility logo" style="vertical-align:middle"/>&nbsp;&nbsp;[May Mobility](https://jobo.world/company/May-Mobility)
+
+* **[Data Scientist](https://job-boards.greenhouse.io/maymobility/jobs/8067616002)** — _n/a_ _(posted 2025-07-11)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w2dz2cahnjcntso7vhoz.webp" width="24" height="24" alt="Mercury logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mercury](https://jobo.world/company/Mercury)
 
 * **[Senior Data Scientist](https://job-boards.greenhouse.io/mercury/jobs/5458525004)** — _n/a_ _(posted 2025-04-26)_
@@ -231,10 +235,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Don&#x27;t see what you&#x27;re looking for?  Join our Talent Network! (Data Engineering)](https://job-boards.greenhouse.io/recordedfuture/jobs/6765808002)** — _n/a_ _(posted 2025-03-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hqzwsmenscskpexh3evu.webp" width="24" height="24" alt="Ro logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ro](https://jobo.world/company/Ro)
-
-* **[Senior Software Engineer, Data Infrastructure](https://jobs.lever.co/ro/453d1d81-9d3e-4eed-be71-53e779adf948)** — _n/a_ _(posted 2025-03-18)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wctfsagj7qjonhls3og0.webp" width="24" height="24" alt="Rula logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rula](https://jobo.world/company/Rula)
 
 * **[Staff Software Engineer - Data (Remote)](https://jobs.ashbyhq.com/rula/553f0da9-790b-429a-91b6-eeb193d8117d)** — ¤187,000 – ¤220,000 USD _(posted 2025-04-29)_
@@ -274,6 +274,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r40ajrc2uetxb7obycan.webp" width="24" height="24" alt="TetraScience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TetraScience](https://jobo.world/company/TetraScience)
 
+* **[DevOps Engineer- Boston](https://apply.workable.com/tetrascience/j/6AFF1294D4/)** — _n/a_ _(posted 2025-07-10)_
 * **[Scientific Data Engineer](https://apply.workable.com/tetrascience/j/EEA8E41C23/)** — _n/a_ _(posted 2025-07-09)_
 * **[Scientific Data Architect - New York](https://apply.workable.com/tetrascience/j/3200945F8E/)** — _n/a_ _(posted 2025-07-08)_
 * **[Scientific Data Architect - Bay Area](https://apply.workable.com/tetrascience/j/76669FA0C4/)** — _n/a_ _(posted 2025-07-08)_
@@ -301,7 +302,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
 
 * **[Sr. Data Engineer II](https://jobs.lever.co/trueml/0e2a9f91-3557-46c9-afb1-8feb8bca4231)** — _n/a_ _(posted 2025-05-18)_
-* **[Senior Machine Learning Engineer](https://jobs.lever.co/trueml/95d90f91-fb45-4563-bcf2-3ae7f3ee81c8)** — _n/a_ _(posted 2025-04-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ue3fwejoinxv3npuikqw.webp" width="24" height="24" alt="Two Six Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Two Six Technologies](https://jobo.world/company/Two-Six-Technologies)
 
@@ -320,4 +320,4 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Sr. Analyst, Business Analytics](https://job-boards.greenhouse.io/wisetack/jobs/4582280005)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-11_
+_Updated automatically — 2025-07-12_
