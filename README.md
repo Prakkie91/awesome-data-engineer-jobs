@@ -95,8 +95,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y1tseabvwxmu8boiolha.webp" width="24" height="24" alt="dbt Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[dbt Labs](https://jobo.world/company/dbtLabs)
 
-* **[Resident Architect](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4578402005)** — _n/a_ _(posted 2025-07-16)_
-* **[Solutions Architect, Majors (Texas)](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4581967005)** — _n/a_ _(posted 2025-07-12)_
 * **[Enterprise Sales Director (South Central)](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4582148005)** — _n/a_ _(posted 2025-07-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e6q2rqxidfkrkn9dkpth.webp" width="24" height="24" alt="Demandbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Demandbase](https://jobo.world/company/Demand-Base)
@@ -107,9 +105,9 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Data Engineering Manager, Games](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Data-Engineering-Manager--Games_JR11479-1)** — _n/a_ _(posted 2025-04-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sdfpocj9acizbzrl8sln.webp" width="24" height="24" alt="dv01 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[dv01](https://jobo.world/company/Dv01)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
 
-* **[Data Analytics Engineer](https://boards.greenhouse.io/dv01/jobs/7967122002)** — _n/a_ _(posted 2025-04-22)_
+* **[Senior Principal Data Scientist (Remote)](https://jobs.smartrecruiters.com/Experian/744000071058506-senior-principal-data-scientist-remote-?oga=true)** — _n/a_ _(posted 2025-07-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pu4qh0i5onxf33cza17v.webp" width="24" height="24" alt="Fetch logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fetch](https://jobo.world/company/FetchRewards)
 
@@ -313,6 +311,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Lead Data Pipeline Engineer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5555375004)** — _n/a_ _(posted 2025-06-06)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mkselq0z2o1qdvl4szzb.webp" width="24" height="24" alt="Typeform logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Typeform](https://jobo.world/company/Typeform)
+
+* **[Manager / Senior Manager Analytics Engineering](https://job-boards.greenhouse.io/typeform/jobs/7076539)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
 
 * **[Data Analyst, Finance](https://job-boards.greenhouse.io/vercel/jobs/5571406004)** — _n/a_ _(posted 2025-06-26)_
@@ -331,5 +333,9 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Engineering Manager - Data Pipelines](https://jobs.lever.co/wpromote/e6ae726b-c871-4a6a-92a2-6b51297f9645)** — _n/a_ _(posted 2025-07-02)_
 * **[Director, Business Analyst](https://jobs.lever.co/wpromote/e78185b5-8285-4f5c-a3ed-0b740c772955)** — ¤150,000 – ¤180,000 USD _(posted 2025-04-17)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dkj6ipzrzwyjesvh2iqc.webp" width="24" height="24" alt="Zoom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zoom](https://jobo.world/company/Zoom)
+
+* **[Data Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Data-Engineer_R16908-1)** — _n/a_ _(posted 2025-07-16)_
+
 ---
-_Updated automatically — 2025-07-17_
+_Updated automatically — 2025-07-18_
