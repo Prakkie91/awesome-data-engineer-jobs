@@ -138,6 +138,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Director, Data Engineering](https://job-boards.greenhouse.io/hs/jobs/6872334)** — _n/a_ _(posted 2025-05-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qhjqtpblwcorcocaldpz.webp" width="24" height="24" alt="Headway logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headway](https://jobo.world/company/Headway)
+
+* **[Head of Data](https://job-boards.greenhouse.io/headway/jobs/5532517004)** — _n/a_ _(posted 2025-05-07)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dxy8iioo8gd3ypfnw3te.webp" width="24" height="24" alt="Keep logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keep](https://jobo.world/company/Keep)
 
 * **[Data Engineering Manager - Hands On](https://jobs.ashbyhq.com/keep/85d24bd8-d366-49cc-adba-0282c45038e0)** — _n/a_ _(posted 2025-06-10)_
@@ -272,7 +276,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Senior Solution Engineer - Communications, Media, and Entertainment](https://jobs.ashbyhq.com/snowflake/80545894-e992-4a41-bec0-e9dbf6ff3d98)** — ¤214,300 – ¤238,100 USD _(posted 2025-03-27)_
 * **[Senior Solution Engineer](https://jobs.ashbyhq.com/snowflake/ebf0e0a1-d1e7-48fb-80bc-55fc278178b5)** — _n/a_ _(posted 2025-03-12)_
 * **[Sales Solutions Architect, West](https://jobs.ashbyhq.com/snowflake/8b40b446-1853-4933-84dc-4815e7a8db03)** — _n/a_ _(posted 2025-03-12)_
-* **[Data Platform Architect (Data Engineering) - Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/dd71094d-1bc0-414e-b60f-4e3d4ab569b3)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w4ks1qx6ryiurq7yzq6z.webp" width="24" height="24" alt="Swish Analytics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Swish Analytics](https://jobo.world/company/SwishAnalytics)
 
@@ -329,4 +332,4 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Data-Engineer_R16908-1)** — _n/a_ _(posted 2025-07-16)_
 
 ---
-_Updated automatically — 2025-07-20_
+_Updated automatically — 2025-07-22_
