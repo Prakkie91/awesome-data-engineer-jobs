@@ -30,6 +30,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ggceq0tw5pnlncrgxzu5.webp" width="24" height="24" alt="Arine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arine](https://jobo.world/company/Arine)
 
+* **[Data Engineering Lead](https://job-boards.greenhouse.io/arine/jobs/5599490004)** — _n/a_ _(posted 2025-07-26)_
 * **[Manager of Data Engineering - Solutions Group](https://job-boards.greenhouse.io/arine/jobs/5527591004)** — _n/a_ _(posted 2025-04-27)_
 * **[Data Engineer (Temp-to-Hire)](https://job-boards.greenhouse.io/arine/jobs/5466969004)** — _n/a_ _(posted 2025-04-26)_
 
@@ -85,6 +86,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y1tseabvwxmu8boiolha.webp" width="24" height="24" alt="dbt Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[dbt Labs](https://jobo.world/company/dbtLabs)
 
+* **[Solutions Architect, Majors (Southeast)](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4590334005)** — _n/a_ _(posted 2025-07-26)_
 * **[Senior Data Engineer](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4587113005)** — _n/a_ _(posted 2025-07-19)_
 * **[Resident Architect](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4587468005)** — _n/a_ _(posted 2025-07-18)_
 * **[Solutions Architect, Majors (Texas)](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4581967005)** — _n/a_ _(posted 2025-07-12)_
@@ -151,6 +153,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
+* **[Staff Data Engineer](https://job-boards.greenhouse.io/life360/jobs/8092933002)** — ¤166,500 – ¤245,000 USD _(posted 2025-07-26)_
 * **[Senior Data Engineer II](https://job-boards.greenhouse.io/life360/jobs/8055214002)** — _n/a_ _(posted 2025-06-28)_
 * **[Senior Data Engineer II](https://job-boards.greenhouse.io/life360/jobs/8028954002)** — _n/a_ _(posted 2025-06-07)_
 
@@ -187,7 +190,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
-* **[Senior Software Engineer, ML Data Services](https://job-boards.greenhouse.io/motional/jobs/6261329003)** — ¤155,300 – ¤207,000 USD _(posted 2025-04-15)_
 * **[Principal Engineer, Team Lead- Data Platform](https://job-boards.greenhouse.io/motional/jobs/6119126003)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zwubunmuzrhumn3mx2us.webp" width="24" height="24" alt="Motive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motive](https://jobo.world/company/Motive)
@@ -234,13 +236,13 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Analytics Manager](https://job-boards.greenhouse.io/paytient/jobs/4730120007)** — _n/a_ _(posted 2025-05-09)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtpksjlzjjnextpxet98.webp" width="24" height="24" alt="PlayStation Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PlayStation Global](https://jobo.world/company/PlayStation-Global)
+
+* **[Lead Data Scientist (Remote US)](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5588324004)** — _n/a_ _(posted 2025-07-26)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mfy1zh0kfr3dcucjo6ra.webp" width="24" height="24" alt="Polychain Capital logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Polychain Capital](https://jobo.world/company/Polychain-Capital)
 
 * **[Backend Engineer, Reporting Systems - Contract 6mo](https://job-boards.greenhouse.io/polychaincapital/jobs/6885321)** — _n/a_ _(posted 2025-05-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bmyehdxrdv6eiphmivcv.webp" width="24" height="24" alt="Procore Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Procore Technologies](https://jobo.world/company/Procore-Technologies)
-
-* **[Senior Data Engineer](https://jobs.smartrecruiters.com/ProcoreTechnologies/744000066667495-senior-data-engineer?oga=true)** — _n/a_ _(posted 2025-06-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/h6wc9ahsl5jklo7wnmkt.webp" width="24" height="24" alt="Recorded Future logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Recorded Future](https://jobo.world/company/Recorded-Future)
 
@@ -249,7 +251,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wctfsagj7qjonhls3og0.webp" width="24" height="24" alt="Rula logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rula](https://jobo.world/company/Rula)
 
 * **[Sr. Analytics Engineer (Remote)](https://jobs.ashbyhq.com/rula/4d29522a-520e-4609-aa79-3d69ecf6d01b)** — ¤162,900 – ¤191,600 USD _(posted 2025-07-16)_
-* **[Staff Software Engineer - Data (Remote)](https://jobs.ashbyhq.com/rula/553f0da9-790b-429a-91b6-eeb193d8117d)** — ¤187,000 – ¤220,000 USD _(posted 2025-04-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zn4umzvmywnnpmqzyjoi.webp" width="24" height="24" alt="Sardine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sardine](https://jobo.world/company/Sardine)
 
@@ -280,7 +281,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
-* **[Financial Controls & Data Analytics Audit Manager](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/Financial-Controls---Data-Analytics-Audit-Manager_R-01322135)** — _n/a_ _(posted 2025-07-23)_
 * **[Sr. Developer](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Sr-Developer_R-01323533)** — _n/a_ _(posted 2025-07-11)_
 * **[Senior Business Insights Developer](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Senior-Business-Insights-Developer_R-01323297)** — _n/a_ _(posted 2025-07-09)_
 
@@ -329,4 +329,4 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Data-Engineer_R16908-1)** — _n/a_ _(posted 2025-07-16)_
 
 ---
-_Updated automatically — 2025-07-26_
+_Updated automatically — 2025-07-27_
