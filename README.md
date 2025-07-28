@@ -112,6 +112,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Senior Analytics Engineer](https://jobs.ashbyhq.com%2Fforward%2520financing%2F7429fff5-f5e8-414c-a7df-7f7be2df8b38)** — _n/a_ _(posted 2025-07-19)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
+
+* **[HR Data Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/HR-Data-Engineer_JR-202507490)** — _n/a_ _(posted 2025-05-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cx1jxbij2fiwfn1atfex.webp" width="24" height="24" alt="GitLab logo" style="vertical-align:middle"/>&nbsp;&nbsp;[GitLab](https://jobo.world/company/GitLab)
 
 * **[Senior Analytics Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8054330002)** — _n/a_ _(posted 2025-07-25)_
@@ -119,10 +123,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
 * **[Staff Data Engineer](https://jobs.lever.co/goodleap/09fc8e2e-77bf-4b4e-9b04-be4373c627b9)** — _n/a_ _(posted 2025-04-23)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o38lh0joyi8xi3irlknt.webp" width="24" height="24" alt="Gravie logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Gravie](https://jobo.world/company/Gravie)
-
-* **[Senior Data Engineer](https://jobs.lever.co/gravie/8f3059e3-a256-4edb-bd92-173621797676)** — _n/a_ _(posted 2025-07-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
 
@@ -329,4 +329,4 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Data-Engineer_R16908-1)** — _n/a_ _(posted 2025-07-16)_
 
 ---
-_Updated automatically — 2025-07-27_
+_Updated automatically — 2025-07-28_
