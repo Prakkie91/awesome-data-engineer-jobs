@@ -101,8 +101,8 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
 
+* **[Staff Data Engineer](https://job-boards.greenhouse.io/flex/jobs/4591105005)** — _n/a_ _(posted 2025-07-30)_
 * **[Senior Data Engineer, Growth](https://job-boards.greenhouse.io/flex/jobs/4579730005)** — _n/a_ _(posted 2025-06-25)_
-* **[Staff Data Engineer](https://job-boards.greenhouse.io/flex/jobs/4579480005)** — _n/a_ _(posted 2025-06-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qckr2hkie9ma9akysexx.webp" width="24" height="24" alt="Forward Financing logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Forward Financing](https://jobo.world/company/Forward-Financing)
 
@@ -138,13 +138,13 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Data Engineering Manager - Hands On](https://jobs.ashbyhq.com/keep/85d24bd8-d366-49cc-adba-0282c45038e0)** — _n/a_ _(posted 2025-06-10)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
+
+* **[Data Analyst - Product](https://jobs.ashbyhq.com/kraken.com/91bd357d-b135-4eef-a773-e23c0ea4219f)** — ¤110,000 – ¤176,000 USD _(posted 2025-07-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c3vxkfxvxuao492oy3lm.webp" width="24" height="24" alt="KUBRA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[KUBRA](https://jobo.world/company/KUBRA)
 
 * **[Senior Data Engineer - (Remote)](https://job-boards.greenhouse.io/krollbondratingagency/jobs/8060454002)** — _n/a_ _(posted 2025-07-03)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
-
-* **[Technical Product Owner](https://job-boards.greenhouse.io/kunai/jobs/4795808007)** — _n/a_ _(posted 2025-07-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
@@ -329,4 +329,4 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Data-Engineer_R16908-1)** — _n/a_ _(posted 2025-07-16)_
 
 ---
-_Updated automatically — 2025-07-30_
+_Updated automatically — 2025-07-31_
