@@ -19,6 +19,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Senior Director of Research+Analytics](https://job-boards.greenhouse.io/aetion/jobs/6917972)** — _n/a_ _(posted 2025-05-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
+
+* **[Senior Software Engineer I, Backend](https://jobs.lever.co/aledade/a788ae8d-0bbb-4b1e-aa7b-dc9aeb70994f)** — _n/a_ _(posted 2025-07-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dopqydjbowgsulf9ebb2.webp" width="24" height="24" alt="Altera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altera](https://jobo.world/company/Altera)
 
 * **[Sales Engineer](https://alteryx.wd5.myworkdayjobs.com/alteryxcareers/job/Texas-USA---Remote/Sales-Engineer_R11075)** — _n/a_ _(posted 2025-06-03)_
@@ -66,10 +70,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xauolcu0ycnihp0pf12l.webp" width="24" height="24" alt="Coder logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coder](https://jobo.world/company/Coder)
 
 * **[Product Operations Engineer](https://jobs.ashbyhq.com/coder/a21249ca-f8c1-4123-a68f-23e309bc950e)** — ¤113,000 – ¤194,000 USD _(posted 2025-05-07)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hls9a14lzek1zhhs6w21.webp" width="24" height="24" alt="Cointracker logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cointracker](https://jobo.world/company/Cointracker)
-
-* **[Staff Backend Engineer, Integrations](https://jobs.ashbyhq.com/cointracker/c2bbef67-919a-49a9-866f-29bcc3429348)** — _n/a_ _(posted 2025-06-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0dp1h5kngjq2sscqpvi.webp" width="24" height="24" alt="Color logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Color](https://jobo.world/company/Color)
 
@@ -146,6 +146,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Senior Data Engineer - (Remote)](https://job-boards.greenhouse.io/krollbondratingagency/jobs/8060454002)** — _n/a_ _(posted 2025-07-03)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
+
+* **[Technical Product Owner](https://job-boards.greenhouse.io/kunai/jobs/4795808007)** — _n/a_ _(posted 2025-07-23)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
 * **[Staff Data Engineer](https://job-boards.greenhouse.io/life360/jobs/8092933002)** — ¤166,500 – ¤245,000 USD _(posted 2025-07-26)_
@@ -161,10 +165,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer I](https://jobs.ashbyhq.com/machinify/635f87d9-fede-4da6-9ab3-51e5238c61cb)** — _n/a_ _(posted 2025-07-24)_
 * **[Staff/Lead Data Engineer](https://jobs.ashbyhq.com/machinify/1bed6473-87d6-46aa-815d-e5e72eb509ef)** — _n/a_ _(posted 2025-03-12)_
 * **[Analytics Engineer](https://jobs.ashbyhq.com/machinify/ee058a5f-d05f-4baf-92d6-3353d74ecc0e)** — ¤180,000 – ¤200,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nboxtlr5jspiue29x9ji.webp" width="24" height="24" alt="Madhive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Madhive](https://jobo.world/company/Madhive)
-
-* **[Staff Engineer, Data Engineering](https://jobs.ashbyhq.com/madhive/7800830e-346d-4630-a145-14df1bb896f6)** — _n/a_ _(posted 2025-07-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iuhpcceshtzjaftxt8fh.webp" width="24" height="24" alt="Manifold Bio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Manifold Bio](https://jobo.world/company/ManifoldBio)
 
@@ -315,6 +315,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Analyst, Finance](https://job-boards.greenhouse.io/vercel/jobs/5571406004)** — _n/a_ _(posted 2025-06-26)_
 * **[Staff Data Analyst, Product](https://job-boards.greenhouse.io/vercel/jobs/5399155004)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ear5vw8exhnxr7ggu4s5.webp" width="24" height="24" alt="Virtuous logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Virtuous](https://jobo.world/company/VirtuousCRM)
+
+* **[Data Migration Engineer](https://jobs.ashbyhq.com/virtuous/4cdac690-a0f7-40cf-a136-24cab1cd8f0e)** — _n/a_ _(posted 2025-07-31)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e5tj1vozjzmgcqspp9pb.webp" width="24" height="24" alt="Wpromote logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Wpromote](https://jobo.world/company/Wpromote)
 
 * **[Engineering Manager - Data Pipelines](https://jobs.lever.co/wpromote/e6ae726b-c871-4a6a-92a2-6b51297f9645)** — _n/a_ _(posted 2025-07-02)_
@@ -324,9 +328,5 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4570159006)** — _n/a_ _(posted 2025-05-23)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dkj6ipzrzwyjesvh2iqc.webp" width="24" height="24" alt="Zoom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zoom](https://jobo.world/company/Zoom)
-
-* **[Data Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Data-Engineer_R16908-1)** — _n/a_ _(posted 2025-07-16)_
-
 ---
-_Updated automatically — 2025-07-31_
+_Updated automatically — 2025-08-01_
