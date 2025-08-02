@@ -15,10 +15,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Sr. Backend Software Engineer - Data Imports](https://job-boards.greenhouse.io/addepar1/jobs/7887667002)** — ¤126,000 – ¤197,000 USD _(posted 2025-05-10)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tlqjwgabi2l4y7crjo3p.webp" width="24" height="24" alt="Aetion logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aetion](https://jobo.world/company/Aetion)
-
-* **[Senior Director of Research+Analytics](https://job-boards.greenhouse.io/aetion/jobs/6917972)** — _n/a_ _(posted 2025-05-24)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
 
 * **[Senior Software Engineer I, Backend](https://jobs.lever.co/aledade/a788ae8d-0bbb-4b1e-aa7b-dc9aeb70994f)** — _n/a_ _(posted 2025-07-30)_
@@ -155,6 +151,7 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Staff Data Engineer](https://job-boards.greenhouse.io/life360/jobs/8092933002)** — ¤166,500 – ¤245,000 USD _(posted 2025-07-26)_
 * **[Senior Data Engineer II](https://job-boards.greenhouse.io/life360/jobs/8055214002)** — _n/a_ _(posted 2025-06-28)_
 * **[Senior Data Engineer II](https://job-boards.greenhouse.io/life360/jobs/8028954002)** — _n/a_ _(posted 2025-06-07)_
+* **[Lead Data Analyst](https://job-boards.greenhouse.io/life360/jobs/8016850002)** — _n/a_ _(posted 2025-05-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hesgrps2yoe7xg9xzzi0.webp" width="24" height="24" alt="M&T Bank logo" style="vertical-align:middle"/>&nbsp;&nbsp;[M&T Bank](https://jobo.world/company/M-And-T-Bank)
 
@@ -165,6 +162,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer I](https://jobs.ashbyhq.com/machinify/635f87d9-fede-4da6-9ab3-51e5238c61cb)** — _n/a_ _(posted 2025-07-24)_
 * **[Staff/Lead Data Engineer](https://jobs.ashbyhq.com/machinify/1bed6473-87d6-46aa-815d-e5e72eb509ef)** — _n/a_ _(posted 2025-03-12)_
 * **[Analytics Engineer](https://jobs.ashbyhq.com/machinify/ee058a5f-d05f-4baf-92d6-3353d74ecc0e)** — ¤180,000 – ¤200,000 USD _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nboxtlr5jspiue29x9ji.webp" width="24" height="24" alt="Madhive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Madhive](https://jobo.world/company/Madhive)
+
+* **[Staff Engineer, Data Engineering](https://jobs.ashbyhq.com/madhive/7800830e-346d-4630-a145-14df1bb896f6)** — _n/a_ _(posted 2025-07-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iuhpcceshtzjaftxt8fh.webp" width="24" height="24" alt="Manifold Bio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Manifold Bio](https://jobo.world/company/ManifoldBio)
 
@@ -251,6 +252,10 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 
 * **[Senior Software Engineer, Data Platform](https://jobs.ashbyhq.com/sardine/76db8051-0efe-457d-82f2-11c06d312de8)** — ¤140,000 – ¤160,000 USD _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/z5uwwyqxguofrmbzy43j.webp" width="24" height="24" alt="Self Financial logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Self Financial](https://jobo.world/company/Self-Financial)
+
+* **[Senior Data Engineer](https://job-boards.greenhouse.io/selffinancial/jobs/5597876004)** — _n/a_ _(posted 2025-08-01)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ikyhgmloca3luk71epu4.webp" width="24" height="24" alt="SmartAsset logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SmartAsset](https://jobo.world/company/SmartAsset)
 
 * **[Senior Data Engineer](https://job-boards.greenhouse.io/smartasset/jobs/8026903002)** — _n/a_ _(posted 2025-06-27)_
@@ -279,11 +284,6 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Financial Controls & Data Analytics Audit Manager](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-North-Carolina-USA/Financial-Controls---Data-Analytics-Audit-Manager_R-01322135)** — _n/a_ _(posted 2025-07-23)_
 * **[Sr. Developer](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Sr-Developer_R-01323533)** — _n/a_ _(posted 2025-07-11)_
 * **[Senior Business Insights Developer](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Senior-Business-Insights-Developer_R-01323297)** — _n/a_ _(posted 2025-07-09)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y3jvphat7o611nqzowe0.webp" width="24" height="24" alt="Thumbtack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thumbtack](https://jobo.world/company/Thumbtack)
-
-* **[Senior Data Engineer](https://job-boards.greenhouse.io/thumbtack/jobs/6964801)** — _n/a_ _(posted 2025-06-10)_
-* **[Senior Data Engineer, Marketing Technology](https://job-boards.greenhouse.io/thumbtack/jobs/6882078)** — _n/a_ _(posted 2025-05-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/whhxmoi8vbfjbrge1cdw.webp" width="24" height="24" alt="Timescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Timescale](https://jobo.world/company/Timescale)
 
@@ -329,4 +329,4 @@ Browse a wide range of remote Data Engineer positions available globally. New jo
 * **[Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4570159006)** — _n/a_ _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
